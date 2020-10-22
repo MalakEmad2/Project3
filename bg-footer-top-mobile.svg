@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="502pt" height="71pt" viewBox="0 0 502 71" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image7" width="502" height="71" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfYAAABHCAYAAAD1CmXYAAAABmJLR0QA/wD/AP+gvaeTAAABQ0lEQVR4nO3VyQnAMADAsKSU7j9wryUCASNN4J/nd1/vAAASzjGeuTsCAFjj2B0AAKxj7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEGLsABBi7AAQYuwAEPID7DYEjbhZ0NAAAAAASUVORK5CYII="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image7"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="502" height="71"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,14.509804%,18.039216%);fill-opacity:1;" d="M 0 27.804688 C 77.328125 -6.554688 170.046875 -6.554688 278.164062 27.804688 C 440.339844 79.34375 444.597656 34.265625 502.03125 0.933594 C 540.316406 -21.289062 574.667969 353.496094 605.078125 1125.28125 L 0 1125.28125 Z M 0 27.804688 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+</g>
+</svg>
